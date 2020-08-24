@@ -11,3 +11,5 @@
 bin/
 obj/
 v15/
+
+*.user
